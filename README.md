@@ -1,7 +1,5 @@
 ![alt text](https://i.imgur.com/d7SvD1e.png)
 
-# Retroarch Video Settings:
-
 1080p Settings | Value
 --- | ---
 Aspect Ratio | Custom
