@@ -1,7 +1,7 @@
 # classic-crt-collection
 Photo-realistic CRT Overlays for Retropie
 
-**Retroarch Video Settings:** 
+# Retroarch Video Settings:
 Aspect Ratio: Custom
 Aspect Ratio X Pos: 480
 Aspect Ratio Y Pos: 118
