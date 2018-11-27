@@ -2,9 +2,7 @@
 
 # Retroarch Video Settings:
 
-For 1080p
-
-Setting | Value
+1080p Settings | Value
 --- | ---
 Aspect Ratio | Custom
 Custom Aspect Ratio X Pos | 480
