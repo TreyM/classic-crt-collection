@@ -1,4 +1,4 @@
-# classic-crt-collection
+# Classic CRT Collection
 Photo-realistic CRT Overlays for Retropie
 
 # Retroarch Video Settings:
