@@ -1,5 +1,4 @@
-# Classic CRT Collection
-Photo-realistic CRT Overlays for Retropie
+![alt text](https://i.imgur.com/d7SvD1e.png)
 
 # Retroarch Video Settings:
 - Aspect Ratio: Custom
