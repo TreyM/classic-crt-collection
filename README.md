@@ -8,7 +8,7 @@ You will then be able to access them from the Quick Menu as seen below:
 ![CRT Directory](https://i.imgur.com/UrWeiaw.jpg)
 
 1080p Settings | Value
---- | ---
+:--- | ---:
 Aspect Ratio | Custom
 Custom Aspect Ratio X Pos | 480
 Custom Aspect Ratio Y Pos | 180
