@@ -1,10 +1,11 @@
-![alt text](https://i.imgur.com/d7SvD1e.png)
+![Logo](https://i.imgur.com/d7SvD1e.png)
 
-To use these overlays, you will need to place the files in this folder on your Pi:
+To use these overlays, you will need to place the CRT folder in your overlay folder on your Pi:
 
 `/opt/retropie/configs/all/retroarch/overlay`
 
-You will then be able to access them from the Quick Menu.
+You will then be able to access them from the Quick Menu as seen below:
+![CRT Directory](https://i.imgur.com/UrWeiaw.jpg)
 
 1080p Settings | Value
 --- | ---
