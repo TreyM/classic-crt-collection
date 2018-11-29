@@ -10,7 +10,7 @@ You will then be able to access them from the Quick Menu.
 --- | ---
 Aspect Ratio | Custom
 Custom Aspect Ratio X Pos | 480
-Custom Aspect Ratio Y Pos | 118
+Custom Aspect Ratio Y Pos | 180
 Custom Aspect Ratio Width | 960
 Custom Aspect Ratio Height | 720
 Integer Scale | Off
