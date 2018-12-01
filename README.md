@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/d7SvD1e.png)
+![Logo](https://i.imgur.com/TZQXZQk.jpg)
 
 To use these overlays, you will need to place the CRT folder in your overlay folder on your Pi:
 
